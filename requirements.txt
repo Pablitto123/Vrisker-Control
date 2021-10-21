@@ -1,0 +1,4 @@
+dearpygui==0.8.64
+pyserial==3.5
+pyswd==1.0.0
+pyusb==1.2.1
